@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nithishvasala
 - 👀 I’m interested in Building Infrastructure as code.
-- 🌱 I’m currently learning better career growth in Devops
+- 🌱 I’m currently learning for better career growth in Devops
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me : https://www.linkedin.com/in/nithish-vasala/
 
